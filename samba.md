@@ -15,7 +15,7 @@ Az alábbi leírás debian alapú linux disztribúciókhoz készült.
 - cd /srv
 - sudo mkdir <mappa_neve>
 - sudo chown -R smbuser:smbgroup <mappa_neve>
-- sudo chmod 775 <mappa neve>
+- sudo chmod 775 <mappa_neve>
 - sudo nano /etc/samba/smb.conf
 ### Konfig file minta
 ```
